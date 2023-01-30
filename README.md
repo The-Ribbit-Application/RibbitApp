@@ -15,7 +15,7 @@ FOR college students WHO find keeping track of their academic progress, goals, a
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**Productivity
+- **Category:** Productivity
 - **Mobile:**
 - **Story:**
 - **Market:**
