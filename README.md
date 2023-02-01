@@ -12,6 +12,8 @@
 
 FOR college students WHO find keeping track of their academic progress, goals, and four-year plan to be tedious. THE Ribbit mobile application is a productivity and self-care software THAT enables students to document their grades, keep learning streak, and monitor academic goals while tracking assignments. UNLIKE other productivity software that helps students academically, OUR PRODUCT involves a digital frog companion that grows with each goal and assignment completed. Ribbit makes academic progress fun as it provides students with the steps they need to achieve their academic goals.
 
+### Personas
+
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
@@ -29,7 +31,10 @@ FOR college students WHO find keeping track of their academic progress, goals, a
 **Required Features**
 
 * [fill in your required user features here]
-* ...
+* User should be able to add friends
+* User data should be stored in the app after every semester
+* User should be able to see the grades they got in certain classes
+
 
 **Stretch Features**
 
