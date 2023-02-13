@@ -67,11 +67,12 @@ On the morning of April 25th, Amy is walking to class when she drops and cracks 
 
 **Required Features**
 - As a student, I want to calculate the grades I need to score in upcoming tests to achieve my desired grades.
-- As a student, I want to monitor my learning schedule as in how much time is spent on each subject and study regularly.
 - As a student, I want to reward myself if I maintain my learning streaks and I am keeping up my academic goals.
 - As a student, I want to get early notification on upcoming exams and assignments about the due date and what grade I should aim to get.
-- As a student using the Ribbit application, I want to be able to trade in-app frog cosmetics (granted by achieving work and maintaining good grades) with my friends so that we can both feel more rewarded for a job well done and get items we want.
-- As an Albion college student, I want to be able to log in to the app using my Albion college credentials so that I don’t need to remember extra information.
+- As an Albion college student, I want to be able to log in to the app using my application credentials and google 
+- As a student, my information should be retained upon logging out and logging in
+- As a student, I want to view my academic progression in the semester and in certain classes
+- As a student, I want to be able to view and edit my to-do list 
 
 
 
