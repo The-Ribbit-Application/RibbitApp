@@ -111,10 +111,10 @@ On the morning of April 25th, Amy is walking to class when she drops and cracks 
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-
 
 ###  Digital Wireframe & Mockup
 <img src="ribbit2.png" width=600>
+
+
 ### Interactive Prototype
 <img src="ribbit.gif" width=600>
