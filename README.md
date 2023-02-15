@@ -108,8 +108,10 @@ On the morning of April 25th, Amy is walking to class when she drops and cracks 
   - [list screen navigation here]
   - ...
 
-## Wireframes
+## Wireframes & Architecture
 
+###  Architectural layer model
+<img src="Architectural layer model.png" width=600>
 
 ###  Digital Wireframe & Mockup
 <img src="ribbit2.png" width=600>
