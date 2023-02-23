@@ -1,6 +1,7 @@
 # Sprint 1
 
 Period: 2/6/2023 - 2/22/2023
+
 Product Owner: Owen Poling
 
 ## Table of Content
