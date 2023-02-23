@@ -10,6 +10,7 @@ Product Owner: Owen Poling
 2. [Sprint Planning](#Sprint-Planning)
 3. [Sprint Review](#Sprint-Review)
 4. [Unfinished Items](#Unfinished-Items)
+5. [Sprint 1 Notes](#Sprint-1-Notes)
 
 ### Sprint Items:
 
@@ -59,3 +60,6 @@ Each of the team member’s features are still in the work of implementing. We h
 great progress in the digital frog, screen wiring, and screen interfaces. We will need to
 contribute time outside of class to learn the programming language flutter and start 
 implementing our features.
+
+### Sprint 1 Notes
+<img src="Sprint 1 Notes.pdf" width=500>
