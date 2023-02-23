@@ -62,4 +62,4 @@ contribute time outside of class to learn the programming language flutter and s
 implementing our features.
 
 ### Sprint 1 Notes
-<img src="Sprint 1 Notes.pdf" width=500>
+<img src="Sprint 1 Notes.pdf" width=600>
