@@ -6,9 +6,9 @@ Product Owner: Owen Poling
 ## Table of Content
 
 1. [Sprint Items](#Sprint-Items)
-1. [Sprint Planning](#Sprint-Planning)
-1. [Sprint Review](#Sprint-Review)
-1. [Unfinished Items](#Unfinished-Items)
+2. [Sprint Planning](#Sprint-Planning)
+3. [Sprint Review](#Sprint-Review)
+4. [Unfinished Items](#Unfinished-Items)
 
 ### Sprint Items:
 
