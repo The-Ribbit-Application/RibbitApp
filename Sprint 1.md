@@ -55,6 +55,7 @@ partial class time offered.
 - Calendar
 - Deadline reminder
 - Flutter
+- UI
 
 Each of the team member’s features are still in the work of implementing. We had made 
 great progress in the digital frog, screen wiring, and screen interfaces. We will need to
